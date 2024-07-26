@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/actor</item>
+        <item>@font/anek_odia_medium</item>
+        <item>@font/athiti</item>
+        <item>@font/average_sans</item>
+        <item>@font/be_vietnam</item>
+        <item>@font/be_vietnam_light</item>
+        <item>@font/bellota_text_bold</item>
+        <item>@font/blinker_light</item>
+        <item>@font/cairo</item>
+    </array>
+</resources>
